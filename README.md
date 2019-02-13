@@ -37,7 +37,7 @@ Follow the guide [Creating a pull request from a fork](https://help.github.com/a
 - [Syllabus](https://docs.google.com/document/d/1jr0HNb1p7APeSTSsMfz4CpeGs0xk94ighMLIdkF4w0U/edit?usp=sharing)
 - [Slides](https://slides.com/accjavascriptframeworks)
 - Installation Guides: [Mac](docs/InstallationGuideMac.md) | [Windows](docs/InstallationGuideWindows.md)
-- [MDN](https://developer.mozilla.org/en-US/) (Unofficial JavaScript Manual)
+- [MDN](https://developer.mozilla.org/en-US/) (JavaScript Manual)
 - Command Line: [NPM Guide](https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/) | [Unix Crash Course](https://www.vikingcodeschool.com/web-development-basics/a-command-line-crash-course) | [Unix Summary](https://swcarpentry.github.io/shell-novice/reference/)
 - [Git Basics](http://rogerdudler.github.io/git-guide/)
 - Visual Studio Code: [Getting Started](https://code.visualstudio.com/docs/getstarted/introvideos)
